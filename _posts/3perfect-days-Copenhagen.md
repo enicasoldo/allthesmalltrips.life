@@ -44,20 +44,20 @@ Along its main road, **Pusher Street**, many people smoke and sell weed, even if
 ### DAY 3
 
 
-The first stop in my last day in the Danish capital was the Tårnet, the Parliament tower, a space which was abandoned despite its impressive architectural structure. Standing 106 meters high, it is the tallest tower in Copenhagen and allows for fantastic views across the city. Upper chambers were used as storage until 2014 when the tower was opened up to the public. Tip for girls: tie your hair before going up!
+The first stop in my last day in the Danish capital was the **Tårnet**, the Parliament tower, a space which was abandoned despite its impressive architectural structure. Standing 106 meters high, it is the tallest tower in Copenhagen and allows for fantastic views across the city. Upper chambers were used as storage until 2014 when the tower was opened up to the public. Tip for girls: tie your hair before going up!
 
-Later take a stroll into the Royal Library Garden, connected to the great philosopher Soren Kierkegaard whose statue stands in front a small pond. This was the most peaceful and reflective space of Copenhagen before turning into a Pokémon Go station…
+Later take a stroll into the **Royal Library Garden**, connected to the great philosopher Soren Kierkegaard whose statue stands in front a small pond. This was the most peaceful and reflective space of Copenhagen before turning into a Pokémon Go station…
 
 
-After taking a tram and took away the luggage at my accommodation, it was time to explore the Kastellet. It is a well-preserved military fortress encircling the old Copenhagen.  The construction was inaugurated in 1626, serving as the stronghold. The Citadel now houses the Danish Defense Intelligence Service. This is a very popular park with a moat and windmill, and it is often used by locals for picnics and annual events. 
+After taking a tram and took away the luggage at my accommodation, it was time to explore the **Kastellet**. It is a well-preserved military fortress encircling the old Copenhagen.  The construction was inaugurated in 1626, serving as the stronghold. The Citadel now houses the Danish Defense Intelligence Service. This is a very popular park with a moat and windmill, and it is often used by locals for picnics and annual events. 
 
-By walk the Amalienborg for the changing of the guard, locals told me that the Royal family members live in that place and you can meet them every day. Monarchy in Denmark is only an eminent family who pays taxes and loves his country: in this way the Danish royal family evolved and survived.
+By walk the **Amalienborg** for the changing of the guard, locals told me that the Royal family members live in that place and you can meet them every day. Monarchy in Denmark is only an eminent family who pays taxes and loves his country: in this way the Danish royal family evolved and survived.
 
-The Danish, with their Welfare State, are a great example of civilization. The community wellness is a  priority compared to the individuals one: this is the way in which they look at the future also thanks to the respect for the environment.  
+>_The Danish, with their Welfare State, are a great example of civilization. The community wellness is a  priority compared to the individuals one: this is the way in which they look at the future also thanks to the respect for the environment._  
 
 I will always bring with me the vibes I felt landing at the Kastrup: a friendly but silent atmosphere broken only by gentle whispers. Danes are not people which loves to win by tricking, pacifism and artistic sense have always characterized them. 
 
-Tip for a souvenir? Denmark is the home of LEGO, from zero to 99 years a creative gift that everyone enjoys. 
+Tips for a souvenir? Denmark is the home of LEGO, from zero to 99 years a creative gift that everyone enjoys. 
 
 
 
