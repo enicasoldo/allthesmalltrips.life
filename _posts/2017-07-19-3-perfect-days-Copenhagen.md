@@ -21,7 +21,8 @@ The **free walking tours** are the best way to get closer to a new city and star
 Esben, our nice guide, gave us the basis to understand the Danish and their lifestyle: nature, welfare, food and happiness. 
 ![Copenhagen Opera House](/assets/images/water-denmark.jpg)
 
->_In Copenhagen architecture and nature merge each other in a beautiful way. I was particularly impressed by the importance that water holds in the urban environment: water is everywhere in Copenhagen and the Government spent millions of euros to reclaim canals around the city._  
+>_In Copenhagen architecture and nature merge each other in a beautiful way. I was particularly impressed by the importance that water holds in the urban environment: water is everywhere in Copenhagen and the Government spent millions of euros to reclaim canals around the city._      
+
 ![Nyavhn](/assets/images/port-nyavhn.jpg)
 
 The old **port of Nyhavn** has been recently upgraded in order to make citizens closer to the water. This is why the famous buildings were painted with bright colors: thanks to this the port moved from a dangerous site to a glamour place. 
