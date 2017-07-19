@@ -10,7 +10,7 @@ image: /assets/images/copenhagen-weekend.jpg
 
 
 When I visited Copenhagen I discover an **happy country** where people live in a soberly and merry way.   
-**It takes more than one weekend to really know a new country but, at the same time but  it is possible to appreciate the culture and the spirit of a country in just three days.**
+**It takes more than one weekend to really know a new country but, at the same time but  it is possible to appreciate the culture and the spirit of a country in just three days.**  
 So I have put together what I think would be the perfect three days in the city, suitable come summer or winter.
 
 
