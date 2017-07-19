@@ -1,3 +1,4 @@
+---
 Layout: post
 title: "3 perfect days in Copenhagen"
 categories: trips
