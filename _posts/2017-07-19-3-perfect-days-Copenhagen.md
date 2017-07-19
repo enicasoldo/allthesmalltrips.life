@@ -44,13 +44,13 @@ I first head down to the the **Little Mermaid**: the fictional character created
 
 In Denmark lunch time means Street Food! 
 **The Papiroen Copenhagen Street Food** is filled of dozens of stands, each offering delicious specialities. It is the a great place to chill, eat, drink and watch the boats passing the canal. But you cannot leave Denmark without tasting the **smørrebrød**: an open sandwich stuffed with meat or fish, cheese and cold cuts: my favourite one is filled with caviar and salmon. This particular “butter bread” usually has decorations to make it more appealing.
-![Smørrebrød](/assets/images/smorrebrod-food.jpg)
+![Smørrebrød](/assets/images/smorredrod-food.jpg)
 
 From the Street Food you can head up to **Christiana** was the last stop of my second day in Copenhagen. 
 I concentrated a whole afternoon in the hippie village to learn the more I could about it. Christiana is a free-town, still part of the Danish capital, that does not see itself as part of the EU.
 ![Free town of Christiania](/assets/images/christiania-town.jpg)
 Along its main road, **Pusher Street**, many people smoke and sell weed, even if in a somewhat disguised way; pictures must not be taken anywhere inside this street. 
->However **_Christiania is not only Pusher Street: be sure to also discover the wider area of the Christianshavn, home to creativity, arts scene and alternative way of life._**  
+>However **_Christiania is not only Pusher Street: be sure to also discover the wider area of the Christianshavn, home to creativity, arts scene and alternative way of life._**    
 ![Pusher Street](/assets/images/christiania-art.jpg)
 
  
