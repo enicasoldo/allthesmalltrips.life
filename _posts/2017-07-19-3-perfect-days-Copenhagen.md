@@ -21,7 +21,7 @@ The **free walking tours** are the best way to get closer to a new city and star
 Esben, our nice guide, gave us the basis to understand the Danish and their lifestyle: nature, welfare, food and happiness. 
 ![Copenhagen Opera House](/assets/images/water-denmark.jpg)
 
->_In Copenhagen architecture and nature merge each other in a beautiful way. I was particularly impressed by the importance that water holds in the urban environment: water is everywhere in Copenhagen and the Government spent millions of euros to reclaim canals around the city._
+>_In Copenhagen architecture and nature merge each other in a beautiful way. I was particularly impressed by the importance that water holds in the urban environment: water is everywhere in Copenhagen and the Government spent millions of euros to reclaim canals around the city._  
 ![Nyavhn](/assets/images/port-nyavhn.jpg)
 
 The old **port of Nyhavn** has been recently upgraded in order to make citizens closer to the water. This is why the famous buildings were painted with bright colors: thanks to this the port moved from a dangerous site to a glamour place. 
@@ -49,7 +49,7 @@ From the Street Food you can head up to **Christiana** was the last stop of my s
 I concentrated a whole afternoon in the hippie village to learn the more I could about it. Christiana is a free-town, still part of the Danish capital, that does not see itself as part of the EU.
 ![Free town of Christiania](/assets/images/christiania-town.jpg)
 Along its main road, **Pusher Street**, many people smoke and sell weed, even if in a somewhat disguised way; pictures must not be taken anywhere inside this street. 
->However **_Christiania is not only Pusher Street: be sure to also discover the wider area of the Christianshavn, home to creativity, arts scene and alternative way of life._**
+>However **_Christiania is not only Pusher Street: be sure to also discover the wider area of the Christianshavn, home to creativity, arts scene and alternative way of life._**  
 ![Pusher Street](/assets/images/christiania-art.jpg)
 
  
