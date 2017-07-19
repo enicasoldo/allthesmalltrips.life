@@ -50,7 +50,7 @@ From the Street Food you can head up to **Christiana** was the last stop of my s
 I concentrated a whole afternoon in the hippie village to learn the more I could about it. Christiana is a free-town, still part of the Danish capital, that does not see itself as part of the EU.
 ![Free town of Christiania](/assets/images/christiania-town.jpg)
 Along its main road, **Pusher Street**, many people smoke and sell weed, even if in a somewhat disguised way; pictures must not be taken anywhere inside this street. 
->However **_Christiania is not only Pusher Street: be sure to also discover the wider area of the Christianshavn, home to creativity, arts scene and alternative way of life._**    
+>However **_Christiania is not only Pusher Street: be sure to also discover the wider area of the Christianshavn, home to creativity, arts scene and alternative way of life._**  
 ![Pusher Street](/assets/images/christiania-art.jpg)
 
  
