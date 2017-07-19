@@ -14,7 +14,7 @@ When I visited Copenhagen I discover an **happy country** where people live in a
 So I have put together what I think would be the perfect three days in the city, suitable come summer or winter.
 
 
- ### Day 1
+### Day 1
 
 Copenhagen is a such an easy city to get around and you can make the most of this by walking or hiring bikes to get around while there.
 The **free walking tours** are the best way to get closer to a new city and starting to meet his values and traditions.
