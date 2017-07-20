@@ -68,11 +68,14 @@ After taking a tram and took away the luggage at my accommodation, it was time t
 
 By walk the **Amalienborg** for the changing of the guard, locals told me that the Royal family members live in that place and you can meet them every day. Monarchy in Denmark is only an eminent family who pays taxes and loves his country: in this way the Danish royal family evolved and survived.
 
->_The Danish, with their Welfare State, are a great example of civilization. The community wellness is a  priority compared to the individuals one: this is the way in which they look at the future also thanks to the respect for the environment._  
+>_The Danish, with their Welfare State, are a great example of civilization. The community wellness is a  priority compared to the individuals one: this is the way in which they look at the future also thanks to the respect for the environment._
+
+![Øresund](/assets/images/copenhagen-beauty.jpg)
 
 I will always bring with me the vibes I felt landing at the Kastrup: a friendly but silent atmosphere broken only by gentle whispers. Danes are not people which loves to win by tricking, pacifism and artistic sense have always characterized them. 
-
+![Kastellet](/assets/images/copenhagen-beautiful.jpg)
 Tips for a souvenir? Denmark is the home of LEGO, from zero to 99 years a creative gift that everyone enjoys. 
+![LEGO Store Cpenhagen](/assets/images/LEGO%20Store.jpg)
 
 
 
