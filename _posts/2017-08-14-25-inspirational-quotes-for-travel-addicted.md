@@ -1,6 +1,6 @@
 ---
 Layout: post
-title: "My 25 inspirational quotes of 2017"
+title: "25 inspirational quotes for travel addicted"
 categories: inspirtions
 tags: [trips, world, words, travels, inspirations, quotes, writers, travellers, happiness, destinations, memories]
 image:
