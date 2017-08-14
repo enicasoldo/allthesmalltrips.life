@@ -41,7 +41,7 @@ Great travel quotes remind me that the emotions I've felt while travelling have 
 
 ![Lin Yutang](/assets/images/lin-yutang.jpg)
 
-![Madeleine Albraight](/assets/images/madeleine-albaraight.jpg)
+![Madeleine Albright](/assets/images/madeleine-albright.jpg)
 
 ![Mark Twain](/assets/images/mark-twain.jpg)
 
