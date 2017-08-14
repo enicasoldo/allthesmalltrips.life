@@ -2,7 +2,7 @@
 Layout: post
 title: "My 25 inspirational quotes of 2017"
 categories: inspirtions
-tags: [trips, world, words, food, cultures, places, roads, travels, soul, people]
+tags: [trips, world, words, travels, inspirations, quotes, writers, travellers, happiness, destinations, memories]
 image:
 ---
 Sometimes all we need are **written words** to lift away our mind from the sameness of everyday life. 
@@ -41,7 +41,7 @@ Great travel quotes remind me that the emotions I've felt while travelling have 
 
 ![Lin Yutang](/assets/images/lin-yutang.jpg)
 
-![Madeleine Albraight](/assets/images/madeleine-albraight.jpg)
+![Madeleine Albraight](/assets/images/madeleine-albaraight.jpg)
 
 ![Mark Twain](/assets/images/mark-twain.jpg)
 
@@ -60,6 +60,7 @@ Great travel quotes remind me that the emotions I've felt while travelling have 
 ![Dalai lama](/assets/images/dalai-lama.jpg)
 
 ![Moslih Eddin Saadi](/assets/images/moslih-eddin-saadi.jpg)
+
 
 
 
