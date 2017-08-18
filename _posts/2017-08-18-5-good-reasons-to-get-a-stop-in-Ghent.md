@@ -25,6 +25,7 @@ At the “Platte Beurs” the hot chocolate is among the best I’ve ever tasted
 The **Cuberdon**, known as Gentse Neuzen, are the Gent treats for excellence. And you will not find them anywhere else!
 These gum arabic candies, because of their preparation, are difficult to export.  So they’re not recommended as a souvenir.
 Cherry “noses” and the black ones are the testiest. Avoid purple lavender Cuberdon, stick to the classic!
+
 ### 5. Belgium means crafting beer
 After a walking day with thermometer that marks -3°, relaxing in a trendy pub is the most loved conclusion here. I recommend you to order a Gentse Strop: **local beers** are always good and they never disappoint.
 If you don’t like beer, Belgium will change you tastes. A crafting beers is “art”as much as Rubens’ paintings.
