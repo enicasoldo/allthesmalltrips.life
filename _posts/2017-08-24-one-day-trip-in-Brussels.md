@@ -6,9 +6,6 @@ tags: [trips, travels, onedaytrip]
 image:  
 ---
 
-Why Brussels should be in your European travel list
-
-
 I have been in Belgium several times in the last two years but I haven’t visit its capital until last August. So I set to explore this city in a one day trip before leaving Flanders: I could never move away without see Brussels, heart of Europe and multicultural community example.
 
 Brussels is only one hour by train from Antwerp, the city where I live: 60 km that draws all the possible differences that could exist between cities in the same country.  The Belgian capital is a fairly compact city where It is easy to go around by foot for a seesighting of the main spots of interest.
