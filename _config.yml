@@ -13,7 +13,7 @@ logo: ""
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "assets/images/small-trips.jpg"
+cover: "assets/images/cover-blog.jpg"
 
 name: 'Enica Soldo'
 author: 'Enica Soldo'
