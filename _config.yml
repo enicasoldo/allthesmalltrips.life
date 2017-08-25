@@ -9,11 +9,11 @@ description: "<i>\"People don't take trips, trips take people\"</i>"
 
 email: enicasoldo@gmail.com
 #blog logo
-logo: "/assets/images/small-trips.jpg"
+logo: ""
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "assets/images/copertina-uno.jpg"
+cover: "assets/images/small-trips.jpg"
 
 name: 'Enica Soldo'
 author: 'Enica Soldo'
