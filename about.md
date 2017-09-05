@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: assets/images/about.jpg
+image: /assets/images/about.jpg
 ---
 
 Hello! I'm Enica!
