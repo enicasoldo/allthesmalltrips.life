@@ -26,7 +26,7 @@ Only one of the mills of Kinderdijk, the Nedrwaardmolen 2, is open to visitors a
 Residing and working in a mill was not easy: the millers used to have 10 or 12 children and lived thanks to the fruits of the land, cattle breeding and fishing. They needed to live in the mills because they had to constantly monitor the water level and possibly intervene following the wind direction and changing the position of blades.
 
 
-To visit the only open mill to the public will make you discover unexpected things: the entrance doors, for example, were small because the feeding at the time was very poor and unequal.
+To visit the only open mill to the public will make you discover **unexpected things**: the entrance doors, for example, were small because the feeding at the time was very poor and unequal.
 The life of millers and his family was distributed among the four floors of windmills. The parents' living room and bedroom was on the ground floor, the children's rooms on the upper floor, the attic where the fish caught due to the presence of the terminal part of the Fireplace on the third floor, the mill's gears at the fourth and the rotating cover, capable of rotating up to 360 ° according to the wind direction on the top floor. 
 
 
