@@ -57,7 +57,6 @@ Along its main road, **Pusher Street**, many people smoke and sell weed, even if
 
 The first stop in my last day in the Danish capital was the **Tårnet**, Parliament Tower, a space which was abandoned despite its impressive architectural structure. Standing 106 meters high, it is the tallest tower in Copenhagen and allows for fantastic views across the city. Upper chambers were used as storage until 2014 when the tower was opened up to the public. Tip for girls: tie your hair before going up!
 ![View from the Christian Tower](/assets/images/tarnet-view.jpg)
-![Windy Parliament Tower](/assets/images/tarnet-hair.jpg)
 
 Later take a stroll into the **Royal Library Garden**, connected to the great philosopher Søren Kierkegaard whose statue stands in front a small pond. This was the most peaceful and reflective space of Copenhagen before turning into a Pokémon Go station…
 ![Kierkegaard statue](/assets/images/library-garden.jpg)
@@ -68,12 +67,11 @@ After taking a tram and took away the luggage at my accommodation, it was time t
 
 By walk the **Amalienborg** for the changing of the guard, locals told me that the Royal family members live in that place and you can meet them every day. Monarchy in Denmark is only an eminent family who pays taxes and loves his country: in this way the Danish royal family evolved and survived.
 
->_The Danish, with their Welfare State, are a great example of civilization. The community wellness is a  priority compared to the individuals one: this is the way in which they look at the future also thanks to the respect for the environment._
+The Danish, with their Welfare State, are a great example of civilization. The community wellness is a  priority compared to the individuals one: this is the way in which they look at the future also thanks to the respect for the environment._
 
-![Øresund](/assets/images/copenhagen-beauty.jpg)
 
-I will always bring with me the vibes I felt landing at the Kastrup: a friendly but silent atmosphere broken only by gentle whispers. Danes are not people which loves to win by tricking, pacifism and artistic sense have always characterized them. 
-![Kastellet](/assets/images/copenhagen-beautiful.jpg)
+>_I will always bring with me the vibes I felt landing at the Kastrup: a friendly but silent atmosphere broken only by gentle whispers. Danes are not people which loves to win by tricking, pacifism and artistic sense have always characterized them._
+
 Tips for a souvenir? Denmark is the home of LEGO, from zero to 99 years a creative gift that everyone enjoys. 
 ![LEGO Store Cpenhagen](/assets/images/LEGO%20Store.jpg)
 
