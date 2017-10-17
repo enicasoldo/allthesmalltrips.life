@@ -3,7 +3,7 @@ Layout: post
 title: "3 perfect days in Copenhagen"
 categories: trips
 tags: [trips, Denmark, Copenhagen, food, hygge, travels, weekend, nature, water, lego, christiania, littlemermaid]
-image: /assets/images/copenhagen-weekend.jpg
+image: /assets/images/copertina-post-cop.jpg
 ---
 
 
@@ -69,7 +69,7 @@ Later take a stroll into the **Royal Library Garden**, connected to the great ph
 
 
 After taking a tram and took away the luggage at my accommodation, it was time to explore the **Kastellet**. It is a well-preserved military fortress encircling the old Copenhagen.  The construction was inaugurated in 1626, serving as the stronghold. The Citadel now houses the Danish Defense Intelligence Service. This is a very popular park with a moat and windmill, and it is often used by locals for picnics and annual events.
-![Kastellet](/assets/images/cover-original.jpg)
+![Kastellet](/assets/images/kastellet1.jpg)
 
 
 By walk the **Amalienborg** for the changing of the guard, locals told me that the Royal family members live in that place and you can meet them every day. Monarchy in Denmark is only an eminent family who pays taxes and loves his country: in this way the Danish royal family evolved and survived.
