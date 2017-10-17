@@ -3,7 +3,7 @@ Layout: post
 title: "3 perfect days in Copenhagen"
 categories: trips
 tags: [trips, Denmark, Copenhagen, food, hygge, travels, weekend, nature, water, lego, christiania, littlemermaid]
-image: /assets/images/copertina-post-cop.jpg
+image: /assets/images/cover-post-cop.jpg
 ---
 
 
