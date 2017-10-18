@@ -19,7 +19,7 @@ A hot coffee thermos, curiosity and wool scarves are the ingredients to enjoy th
 The **Saint Bavo Cathedral** is one of many Romanesque churches adorning Belgium.
 Walking between stained glasses and famous flemish paintings is always amazing.
 The Sintbaafskathedral hosts the “Adoration of the Mystic Lamb” by the **Van Eyck brothers**. The masterpiece was stolen by Nazis and then it was saved by The Monuments Men after the World War II.
-![The Bell tower balustrade](/assets/images/tower-bell.jpg)
+![The Bell Tower balustrade](/assets/images/tower-bell.jpg)
 Facing the cathedral stands the Belfort, the medieval bell tower **Heritage Site**. Don’t give up climbing: the gorgeous view from 95 meters will repay the effort!Beauty and history that Belgium offers ticket free.
 ### 3. A sweet pit-stop
 ![Cafes on the canal](/assets/images/ghent-cafes.jpg)
