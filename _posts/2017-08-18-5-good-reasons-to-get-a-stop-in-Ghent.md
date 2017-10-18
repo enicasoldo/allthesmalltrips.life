@@ -10,7 +10,7 @@ image: /assets/images/trip-ghent.jpg
 Gent is the jewel of **East Flanders**. History and legend come together in this pretty medieval town. Winter, although very hard, is the perfect season to appreciate local folklore. All Northern Belgium traits are cutely enclosed in Ghent. Canals, bridges, gothic buildings, colors and many towers decorate the city. If Amsterdam is the “Venice of the North”, Ghent is the pocket version.
 
 ### 1. Ghent or Brugge?
-![Charming Ghent](/assets/images/ghent-or-brugge)
+![Charming Ghent](/assets/images/ghent-or-brugge.jpg)
 
 **If you do not  like tourist itinerary** the answer is Ghent. Souvenirs shops and tourists making pictures are everywhere also in Ghent. But the the atmosphere is very magical and it is difficult to describe it by words.
 A hot coffee thermos, curiosity and wool scarves are the ingredients to enjoy the city. And then, let the wind brushes your cheeks.
