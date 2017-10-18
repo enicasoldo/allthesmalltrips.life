@@ -15,6 +15,7 @@ So I have put together what I think would be the perfect three days in the city,
 
 
 ### Day 1
+![Charming Copenhagen](/assets/images/charming-cop.jpg)
 
 Copenhagen is a such an easy city to get around and you can make the most of this by walking or hiring bikes to get around while there.
 The **free walking tours** are the best way to get closer to a new city and starting to meet his values and traditions.
@@ -43,20 +44,19 @@ I chose an Airbnb accommodation since I read that Copenhagen is a very expansive
 ### Day 2
 Good morning Copenhagen!
 I first head down to the the **Little Mermaid**: the fictional character created by Andersen, is the most popular attraction among tourists. She is represented by a bronze statue which stares at the sea from a rock at the Langelinie promenade.
-![The Little Mermaid](/assets/images/little-marmeid.jpg)
+![The Little Mermaid](/assets/images/little-marmeid1.jpg)
 
 >_The beauty of that corner is in the atmosphere around the Mermaid, especially thanks the sound of waves that crumble on the rocks._
 
 In Denmark lunch time means Street Food!
 **The Papiroen Copenhagen Street Food** is filled of dozens of stands, each offering delicious specialities. It is the a great place to chill, eat, drink and watch the boats passing the canal. But you cannot leave Denmark without tasting the **smørrebrød**: an open sandwich stuffed with meat or fish, cheese and cold cuts: my favourite one is filled with caviar and salmon. This particular “butter bread” usually has decorations to make it more appealing.
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:37.5% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BMJ6D6KhVVb/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">SMØRRØBRØD #bestsandwichever #tipicaldanishsandwich #smørrobrødsandwich 🍺🍔</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by enica soldo (@enicasoldo) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-10-29T17:13:29+00:00">Oct 29, 2016 at 10:13am PDT</time></p></div></blockquote> <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 From the Street Food you can head up to **Christiana** was the last stop of my second day in Copenhagen.
 I concentrated a whole afternoon in the hippie village to learn the more I could about it. Christiana is a free-town, still part of the Danish capital, that does not see itself as part of the EU.
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:62.5% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BMR-3lqBd-s/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">#christiana #thehippievillage #hippielifestyle #denmark #copenaghen #aboulastweekend 🌻🌻🌈🌈</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by enica soldo (@enicasoldo) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-11-01T20:29:25+00:00">Nov 1, 2016 at 1:29pm PDT</time></p></div></blockquote> <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+![Christiania](/assets/images/christiania3.jpg)
 Along its main road, **Pusher Street**, many people smoke and sell weed, even if in a somewhat disguised way; pictures must not be taken anywhere inside this street.
 >However **_Christiania is not only Pusher Street: be sure to also discover the wider area of the Christianshavn, home to creativity, arts scene and alternative way of life._**
 
-![Pusher Street](/assets/images/christiania-art.jpg)
+![Pusher Street](/assets/images/christiania2.jpg)
 
 
 ### DAY 3
@@ -73,12 +73,13 @@ After taking a tram and took away the luggage at my accommodation, it was time t
 
 
 By walk the **Amalienborg** for the changing of the guard, locals told me that the Royal family members live in that place and you can meet them every day. Monarchy in Denmark is only an eminent family who pays taxes and loves his country: in this way the Danish royal family evolved and survived.
-![Amalienborg Slotplads](/assets/images/amalienborg-square.jpg)
+![Amalienborg Slotplads](/assets/images/amalienborg-amalienborg.jpg)
 
 The Danish, with their **Welfare State**, are a great example of civilization. The community wellness is a  priority compared to the individuals one: this is the way in which they look at the future also thanks to the respect for the environment._
 
 
->_I will always bring with me the vibes I felt landing at the Kastrup: a friendly but silent atmosphere broken only by gentle whispers. Danes are not people which loves to win by tricking, pacifism and artistic sense have always characterized them._
+>_I will always bring with me the vibes I felt landing at the Kastrup: a friendly but silent atmosphere broken only by gentle whispers. Danes are not people which loves to win by tricking, pacifism and artistic sense have always characterized them.
+![Lego Store Copenhagen](/assets/images/lego-store-copenhagen.jpg)
 
 Tips for a souvenir? Denmark is the home of LEGO, from zero to 99 years a creative gift that everyone enjoys.
 ![LEGO Store Cpenhagen](/assets/images/LEGO%20Store.jpg)
