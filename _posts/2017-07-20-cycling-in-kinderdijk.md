@@ -13,7 +13,7 @@ You cannot understand Netherlands and its people without visiting **Kinderdijk**
 
 Kinderdijk is a small village, 16 kilometers from Rotterdam, **World Heritage Site** since 1997. It is made up by **19 windmills** scattered across the boundless Dutch plain!
 Not everyone knows that the 25% of Netherlands is constant at risk of flooding, because of its position below the sea level.
-![Canals](/assets/images/sea-level.jpg)
+![Canals](/assets/images/sea-level3.jpg)
 > These lands were the first experiments of **Polder**, areas once invaded by the sea, reclaimed by dams, channels and mills.
 
 I reached Kinderdijk by car from Antwerp: It was very simple, parking are free and the mills’ Site is very close to the town. I have read that the best way to visit Kinderdijk is by bike in fact, the windmills area is huge and, in spring, sun hammers down. You can make the most out the beauty of Kinderdijk by cycling between the canals, this is all worth it ! Crossing this land by foot it'a s whole different experience because it could be very hot, and by walking you can't feel the wind on your skin. So, rent a bike in one of the restaurants just out the site entrance and:
