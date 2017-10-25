@@ -44,7 +44,7 @@ I chose an Airbnb accommodation since I read that Copenhagen is a very expansive
 ### Day 2
 Good morning Copenhagen!
 I first head down to the the **Little Mermaid**: the fictional character created by Andersen, is the most popular attraction among tourists. She is represented by a bronze statue which stares at the sea from a rock at the Langelinie promenade.
-![The Little Mermaid](/assets/images/little-marmaid1.jpg)
+![The Little Mermaid](/assets/images/little-mermaid1.jpg)
 
 >_The beauty of that corner is in the atmosphere around the Mermaid, especially thanks the sound of waves that crumble on the rocks._
 
