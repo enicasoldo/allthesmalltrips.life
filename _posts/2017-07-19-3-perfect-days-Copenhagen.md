@@ -76,6 +76,9 @@ After taking a tram and took away the luggage at my accommodation, it was time t
 By walk the **Amalienborg** for the changing of the guard, locals told me that the Royal family members live in that place and you can meet them every day. Monarchy in Denmark is only an eminent family who pays taxes and loves his country: in this way the Danish royal family evolved and survived.
 ![Amalienborg Slotplads](/assets/images/copy-amalienborg.jpg)
 
+If you have some dead time in your travel schedule, take a look at the **Design Museum**. I was not particularly excited by my tour: the museum does not involve visitors with its to many stuffs with no explanations and too long historical introductions. On the other side, the chairs' department is interesting and curious. The celebrated **shell chair**, that we all have set once at least or we would like to have at home, was designed by the Danish designer Hans Wegner. Here you can understand the iter that has led to this futuristic design and, in general, the chair design's evolution to nowadays.
+![The Design Museum](/assets/images/deign-museum.jpg)
+
 The Danish, with their **Welfare State**, are a great example of civilization. The community wellness is a  priority compared to the individuals one: this is the way in which they look at the future also thanks to the respect for the environment.
 
 
