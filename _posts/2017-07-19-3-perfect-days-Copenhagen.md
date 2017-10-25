@@ -15,7 +15,7 @@ So I have put together what I think would be the perfect three days in the city,
 
 
 ### Day 1
-![Charming Copenhagen](/assets/images/charming-cop.jpg)
+![Charming Copenhagen](/assets/images/copy.jpg)
 
 Copenhagen is a such an easy city to get around and you can make the most of this by walking or hiring bikes to get around while there.
 The **free walking tours** are the best way to get closer to a new city and starting to meet his values and traditions.
@@ -28,7 +28,7 @@ Esben, our nice guide, gave us the basis to understand the Danish and their life
 
 The old **port of Nyhavn** has been recently upgraded in order to make citizens closer to the water. This is why the famous buildings were painted with bright colors: thanks to this the port moved from a dangerous site to a glamour place.
 
-To make the most out of my first day in Denmark, I took a quick look at the **University District**. In this area near the University of Copenhagen you may feel the “hygge”, a Danish word whose meaning is “ to be warm, cozy and relaxed”.
+To make the most out of my first day in Denmark, I took a quick look at the **University District**. In this area near the University of Copenhagen you may feel the “hygge”, a Danish word whose meaning is “to be warm, cozy and relaxed”.
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BNcbNYCBur1/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">#walking #handinhand #magicalstreet #library #window #bookseverywhere #surprise #teamcuteness #beautywillsavetheworld</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by enica soldo (@enicasoldo) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-11-30T18:20:52+00:00">Nov 30, 2016 at 10:20am PST</time></p></div></blockquote> <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 
 Reading recommendation: if you you want to learn more about **hygge** and its meaning, there is a very interesting book about it edited by the Happiness Research Institute of Copenhagen.
@@ -73,7 +73,7 @@ After taking a tram and took away the luggage at my accommodation, it was time t
 
 
 By walk the **Amalienborg** for the changing of the guard, locals told me that the Royal family members live in that place and you can meet them every day. Monarchy in Denmark is only an eminent family who pays taxes and loves his country: in this way the Danish royal family evolved and survived.
-![Amalienborg Slotplads](/assets/images/amalienborg-amalienborg.jpg)
+![Amalienborg Slotplads](/assets/images/copy-amalienborg.jpg)
 
 The Danish, with their **Welfare State**, are a great example of civilization. The community wellness is a  priority compared to the individuals one: this is the way in which they look at the future also thanks to the respect for the environment._
 
