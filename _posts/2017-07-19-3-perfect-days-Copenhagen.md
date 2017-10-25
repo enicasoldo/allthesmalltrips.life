@@ -79,7 +79,7 @@ By walk the **Amalienborg** for the changing of the guard, locals told me that t
 The Danish, with their **Welfare State**, are a great example of civilization. The community wellness is a  priority compared to the individuals one: this is the way in which they look at the future also thanks to the respect for the environment._
 
 
->_I will always bring with me the vibes I felt landing at the Kastrup: a friendly but silent atmosphere broken only by gentle whispers. Danes are not people which loves to win by tricking, pacifism and artistic sense have always characterized them.
+>_ I will always bring with me the vibes I felt landing at the Kastrup: a friendly but silent atmosphere broken only by gentle whispers. Danes are not people which loves to win by tricking, pacifism and artistic sense have always characterized them.
 
 ![Lego Store Copenhagen](/assets/images/lego-cop.jpg)
 
