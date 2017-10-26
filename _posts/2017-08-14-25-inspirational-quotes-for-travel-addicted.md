@@ -55,7 +55,7 @@ Great travel quotes remind me that the emotions I've felt while travelling have 
 
 ![Roy Goodman](/assets/images/roy-goodman.jpg)
 
-![Rudyard Kipling](/assets/images/ruyard-kipling.jpg)
+![Rudyard Kipling](/assets/images/quote-kipling.jpg)
 
 ![Dalai lama](/assets/images/dalai-lama.jpg)
 
