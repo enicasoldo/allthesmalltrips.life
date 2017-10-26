@@ -5,7 +5,7 @@ categories: inspirtions
 tags: [trips, world, words, travels, inspirations, quotes, writers, travellers, happiness, destinations, memories]
 image: /assets/images/landscape.jpg
 ---
-Sometimes all we need are **written words** to lift away our mind from the sameness of everyday life. 
+Sometimes all we need are **written words** to lift away our mind from the sameness of everyday life.
 Great travel quotes remind me that the emotions I've felt while travelling have been experienced by many others. These are the **best ispirational travel quotes** that motivated me to discover the **world** and **myself** durind the last year: I hope they can inspire you and your next adventures as deeply as they did with me.
 
 
@@ -45,7 +45,7 @@ Great travel quotes remind me that the emotions I've felt while travelling have 
 
 ![Mark Twain](/assets/images/mark-twain.jpg)
 
-![Martin Buber](/assets/images/martin-buber.jpg)
+![Martin Buber](/assets/images/quote-journey.jpg)
 
 ![Mary Anne Radmacher](/assets/images/mary-anne-radmacher.jpg)
 
@@ -59,8 +59,4 @@ Great travel quotes remind me that the emotions I've felt while travelling have 
 
 ![Dalai lama](/assets/images/dalai-lama.jpg)
 
-![Moslih Eddin Saadi](/assets/images/moslih-eddin-saadi.jpg)
-
-
-
-
+![Moslih Eddin Saadi](/assets/images/quote-saadi.jpg)
