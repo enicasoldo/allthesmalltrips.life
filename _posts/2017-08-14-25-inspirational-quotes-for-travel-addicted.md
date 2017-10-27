@@ -11,13 +11,13 @@ Great travel quotes remind me that the emotions I've felt while travelling have 
 
 
 
-![Aldous Huxley](/assets/images/aldous-huxley.jpg)
+![Aldous Huxley](/assets/images/quote-huxley.jpg)
 
 ![Anais Nin](/assets/images/anais-nin.jpg)
 
 ![Chief Seattle](/assets/images/chief-seattle.jpg)
 
-![Clint Borgen](/assets/images/clint-borgen.jpg)
+![Clint Borgen](/assets/images/quote-borgen.jpg)
 
 ![Eugene Fodor](/assets/images/eugenefodor.jpg)
 
@@ -31,7 +31,7 @@ Great travel quotes remind me that the emotions I've felt while travelling have 
 
 ![Henry Miller](/assets/images/henry-miller.jpg)
 
-![Ibn Battuta](/assets/images/ibnbattuta.jpg)
+![Ibn Battuta](/assets/images/quote-battuta.jpg)
 
 ![James A. Michener](/assets/images/james-a-michener.jpg)
 
@@ -39,7 +39,7 @@ Great travel quotes remind me that the emotions I've felt while travelling have 
 
 ![Jack Kerouac](/assets/images/kerouac.jpg)
 
-![Lin Yutang](/assets/images/lin-yutang.jpg)
+![Lin Yutang](/assets/images/quote-yutang.jpg)
 
 ![Madeleine Albright](/assets/images/madeleine-albright.jpg)
 
