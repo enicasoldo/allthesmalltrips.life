@@ -25,6 +25,7 @@ Facing the cathedral stands the Belfort, the medieval bell tower **Heritage Site
 
 ![The Gravensteen](/assets/images/ghent-castle.jpg)
 The best way to enjoy the medieval atmosphere in Ghent is to walk on the cobblestones of the Castle. During the Middle Ages the **Castle of the Counts of Flanders** was used for many aims: first as a courthose, and then also as a prison, decayed and even as a factory. Today, it has been repaired enough to allow people to take a stroll through it and climb on top. The building is still partly surrounded by the moat and inside you can visit a museum with various torture devices (and a _guillotine_) that were historically used in Ghent.
+![Ghent Town Hall](/assets/images/ghent-hall.jpg)
 
 
 ### 3. A sweet pit-stop
