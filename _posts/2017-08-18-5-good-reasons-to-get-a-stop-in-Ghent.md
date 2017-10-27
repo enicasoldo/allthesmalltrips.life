@@ -27,6 +27,10 @@ Facing the cathedral stands the Belfort, the medieval bell tower **Heritage Site
 The best way to enjoy the medieval atmosphere in Ghent is to walk on the cobblestones of the Castle. During the Middle Ages the **Castle of the Counts of Flanders** was used for many aims: first as a courthose, and then also as a prison, decayed and even as a factory. Today, it has been repaired enough to allow people to take a stroll through it and climb on top. The building is still partly surrounded by the moat and inside you can visit a museum with various torture devices (and a _guillotine_) that were historically used in Ghent.
 ![Ghent Town Hall](/assets/images/ghent-hall.jpg)
 
+By traveling throughout Belgian cities you get used to see, in each of it, the "grote markt", typical triangular squares with their Town Halls and the guildhalls that overlook on it (for example the [Brussels' Grote Markt](http://allthesmalltrips.life/trips/2017/10/13/bruxelles.html) if the most famous one and UNESCO World Heritage Site).
+![Stepped gable roofs](/assets/images/belgian-roofs.jpg)
+
+Curiously, in Ghent you have no one Grote Markt, but The Town Hall is very impressive and there are small but nice squares everywhere. As you can see all over Belgium, many buildings have a particular roofline design.  It is called "crow-stepped gable" and, to be exact, Ghent has the oldest design _corbie step_ roof date from the 12th century.
 
 ### 3. A sweet pit-stop
 ![Cafes on the canal](/assets/images/ghent-cafes.jpg)
