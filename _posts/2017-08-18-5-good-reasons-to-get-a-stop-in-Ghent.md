@@ -21,7 +21,9 @@ Walking between stained glasses and famous flemish paintings is always amazing.
 The Sintbaafskathedral hosts the “Adoration of the Mystic Lamb” by the **Van Eyck brothers**. The masterpiece was stolen by Nazis and then it was saved by The Monuments Men after the World War II.
 ![The Bell Tower balustrade](/assets/images/tower-bell.jpg)
 Facing the cathedral stands the Belfort, the medieval bell tower **Heritage Site**. Don’t give up climbing: the gorgeous view from 95 meters will repay the effort!Beauty and history that Belgium offers ticket free.
-![The Gravensteen](/assets/images/ghent-castel.jpg)
+
+![The Gravensteen](/assets/images/ghent-castle.jpg)
+
 ### 3. A sweet pit-stop
 ![Cafes on the canal](/assets/images/ghent-cafes.jpg)
 Ghent downtown is full of tea rooms and inns. Choose the one that appeals to you the most and fill up on hot drinks and baked goodies.
