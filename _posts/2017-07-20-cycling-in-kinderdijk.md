@@ -4,6 +4,7 @@ title: "Cycling in Kinderdijk"
 categories: trips
 tags: [trips, Netherlands, Kinderdijk, bike, polder, sunnyday, canals, windmills, millers, landscape, water, nature]
 image: /assets/images/copertina-mulini.jpg
+excerpt: "If you want to understand Netherlands, Kinderdijk is the place to go"
 ---
 
 
