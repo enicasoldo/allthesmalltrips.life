@@ -33,30 +33,16 @@ google_analytics: UA-87748609-2
 
 # social icons and sharing options
 social:
-  - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
+  - icon:	facebook-square
+    url:	https://www.facebook.com/enica.soldo
+    desc: Connect with me on Facebook
+    share_url: https://www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link: "&amp;u="
 
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: https://www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
-
-  - icon:	github
-    url:	https://github.com/dirkfabisch
-    desc:	Fork me on github
+  - icon:	instagram
+    url:	https://www.instagram.com/enicasoldo/
+    desc:	Follow me on Instagram
     share_url:
     share_title:
     share_link:
-
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:
