@@ -103,6 +103,8 @@
         {% endif %}
       </article>
     </main>
+    {{post.permalink}}
+    <div class="fb-comments" data-href="{{site.baseurl}}{{post.url}}" data-width="640"></div>
     <div class="bottom-closer">
       <div class="background-closer-image" {%if site.cover %} style="background-image: url({{ site.cover | prepend: site.baseurl }})"{% endif %}>
         Image
