@@ -2,8 +2,8 @@
 layout: post
 title: "Why Brussels should be in your European travel list"
 categories: trips
-tags: [trips, Ireland, Dublin, food, hotels, architecture, river, Guinness, travels, daytrip]
-image: /assets/images/finale.jpg
+tags: [trips, belgium, brussels, food, fries, architecture, capital, city, travels, daytrip]
+image: /assets/images/brussels-copertina.jpg
 ---
 
 I have been in Belgium several times in the last two years but I haven’t visit its capital until last August. So I set to explore this city in a one day trip before leaving Flanders: I could never move away without see **Brussels, heart of Europe and multicultural community example**.
@@ -14,7 +14,7 @@ I have been in Belgium several times in the last two years but I haven’t visit
 
 Like I did for [Copenhagen](http://allthesmalltrips.life/trips/2017/07/19/3-perfect-days-Copenhagen.html), I booked the free tour with SANDEMAN’s NEW Europe tours: it is a valiant option if you prefer to enjoy a new city  in an unconventional way.  The guides are more experienced and enthusiastic compared to the classical tourist tours and they usually are young and motivated. I fell in love with these kind of making tours because they perfectly reflect my way of traveling: **not just see places and do things, but also understand cultures, meet people and even change your mind**.
 
-![The Grote Markt](/assets/images/brussels-town-hall.jpg)
+![The Grote Markt](/assets/images/the-grote-markt.jpg)
 
 My walking tour with the nice Magali started at 11 AM in Grand Place,  the central square in the city and UNESCO World Heritage Site. Every main city in Belgium and Netherlands has its Grote Markt, which is a common name of centrally located historic market square.Three historical buildings rise up in Brussels' **Grote Markt**: the **Town Hall**, The **Breadhouse** and the **guildhalls**. I was amazed by the particular architecture and history of the town hall: it is the only one wholly survived to the the Second World War which is full of curiosities and legends.
 
