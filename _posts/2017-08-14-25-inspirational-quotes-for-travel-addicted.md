@@ -1,5 +1,5 @@
 ---
-Layout: post
+layout: post
 title: "25 inspirational quotes for travel addicted"
 categories: inspirtions
 tags: [trips, world, words, travels, inspirations, quotes, writers, travellers, happiness, destinations, memories]

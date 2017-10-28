@@ -1,5 +1,5 @@
 ---
-Layout: post
+layout: post
 title: "5 good reasons to get a stop in Ghent"
 categories: trips
 tags: [trips, Flanders]

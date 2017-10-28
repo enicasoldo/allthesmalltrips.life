@@ -1,5 +1,5 @@
 ---
-Layout: post
+layout: post
 title: "Cycling in Kinderdijk"
 categories: trips
 tags: [trips, Netherlands, Kinderdijk, bike, polder, sunnyday, canals, windmills, millers, landscape, water, nature]
