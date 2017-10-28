@@ -18,7 +18,7 @@ Like I did for [Copenhagen](http://allthesmalltrips.life/trips/2017/07/19/3-perf
 
 My walking tour with the nice Magali started at 11 AM in Grand Place,  the central square in the city and UNESCO World Heritage Site. Every main city in Belgium and Netherlands has its Grote Markt, which is a common name of centrally located historic market square.Three historical buildings rise up in Brussels' **Grote Markt**: the **Town Hall**, The **Breadhouse** and the **guildhalls**. I was amazed by the particular architecture and history of the town hall: it is the only one wholly survived to the the Second World War which is full of curiosities and legends.
 
-![Flowers' carpet on the _Grand Place_](/assets/images/brussels-town-hall.jpg)
+![Flowers' carpet on the _Grand Place_](/assets/images/brussels-flowers.jpg)
 
 It was a lucky trip for me because I visited Brussels just the 15th of August. In effect, when I got there, I discovered that every two years, only in August, the whole square is transformed into a **giant flower carpet** thanks to the millions of begonias brought there to create a colorful masterpiece.
 
