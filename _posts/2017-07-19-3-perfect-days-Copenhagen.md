@@ -6,15 +6,13 @@ tags: [trips, Denmark, Copenhagen, food, hygge, travels, weekend, nature, water,
 image: /assets/images/cover-post-cop.jpg
 ---
 
-
-
-
 When I visited Copenhagen I discover an **happy country** where people live in a soberly and merry way.   
 **It takes more than one weekend to really know a new country but, at the same time but  it is possible to appreciate the culture and the spirit of a country in just three days.**  
 So I have put together what I think would be the perfect three days in the city, suitable come summer or winter.
 
 
 ### Day 1
+
 ![Charming Copenhagen](/assets/images/copy.jpg)
 
 Copenhagen is a such an easy city to get around and you can make the most of this by walking or hiring bikes to get around while there.
@@ -39,8 +37,6 @@ Reading **recommendation**: if you you want to learn more about **hygge** and it
 
 I chose an Airbnb accommodation since I read that Copenhagen is a very expansive city. Plus, the idea was to spend the day around the city so a less and cheaper lodging was the best.
 
-
-
 ### Day 2
 Good morning Copenhagen!
 I first head down to the the **Little Mermaid**: the fictional character created by Andersen, is the most popular attraction among tourists. She is represented by a bronze statue which stares at the sea from a rock at the Langelinie promenade.
@@ -63,20 +59,23 @@ Along its main road, **Pusher Street**, many people smoke and sell weed, even if
 ### DAY 3
 
 The first stop in my last day in the Danish capital was the **Tårnet**, Parliament Tower, a space which was abandoned despite its impressive architectural structure. Standing 106 meters high, it is the tallest tower in Copenhagen and allows for fantastic views across the city. Upper chambers were used as storage until 2014 when the tower was opened up to the public. Tip for girls: tie your hair before going up!
+
 ![View from the Christian Tower](/assets/images/tarnet-view.jpg)
 
 Later take a stroll into the **Royal Library Garden**, connected to the great philosopher Søren Kierkegaard whose statue stands in front a small pond. This was the most peaceful and reflective space of Copenhagen before turning into a Pokémon Go station…
+
 ![Kierkegaard statue](/assets/images/library-garden.jpg)
 
-
 After taking a tram and took away the luggage at my accommodation, it was time to explore the **Kastellet**. It is a well-preserved military fortress encircling the old Copenhagen.  The construction was inaugurated in 1626, serving as the stronghold. The Citadel now houses the Danish Defense Intelligence Service. This is a very popular park with a moat and windmill, and it is often used by locals for picnics and annual events.
+
 ![Kastellet](/assets/images/kastellet1.jpg)
 
-
 By walk the **Amalienborg** for the changing of the guard, locals told me that the Royal family members live in that place and you can meet them every day. Monarchy in Denmark is only an eminent family who pays taxes and loves his country: in this way the Danish royal family evolved and survived.
+
 ![Amalienborg Slotplads](/assets/images/copy-amalienborg.jpg)
 
 **Remember**: if you have some dead time in your travel schedule, take a look at the **Design Museum**. I was not particularly excited by my tour: the museum does not involve visitors with its to many stuffs with no explanations and too long historical introductions. On the other side, the chairs' department is interesting and curious. The celebrated **shell chair**, that we all have set once at least or we would like to have at home, was designed by the Danish designer Hans Wegner. Here you can understand the iter that has led to this futuristic design and, in general, the chair design's evolution to nowadays.
+
 ![The Design Museum](/assets/images/deign-museum.jpg)
 
 The Danish, with their **Welfare State**, are a great example of civilization. The community wellness is a  priority compared to the individuals one: this is the way in which they look at the future also thanks to the respect for the environment.
