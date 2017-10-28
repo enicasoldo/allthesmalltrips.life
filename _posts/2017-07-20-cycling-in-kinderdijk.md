@@ -1,9 +1,10 @@
 ---
-Layout: post
+layout: post
 title: "Cycling in Kinderdijk"
 categories: trips
 tags: [trips, Netherlands, Kinderdijk, bike, polder, sunnyday, canals, windmills, millers, landscape, water, nature]
 image: /assets/images/copertina-mulini.jpg
+excerpt: "If you want to understand Netherlands, Kinderdijk is the place to go"
 ---
 
 
@@ -25,6 +26,7 @@ I reached Kinderdijk by car from Antwerp: It was very simple, parking are free a
 **Remember**: buy the full ticket. lt includes a video history about Dutch Polder and the visit inside mills. I think it is useful to get into the spirit of this Land and, in addition, all tickets money are allocated to the Site’s maintenance.
 
 **Only one of the mills of Kinderdijk, the Nedrwaardmolen 2, is open** to visitors and offers an overall view of the ancient functioning and living conditions of its inhabitants. Take a stop here during your cycling tour and the deepest side of miller’s life.
+
 ![Mill blades](/assets/images/windmill-blades.jpg)
 
 Residing and working in a mill was not easy: the millers used to have 10 or 12 children and lived thanks to the fruits of the land, cattle breeding and fishing. **They needed to live in the mills because they had to constantly monitor the water level** and possibly intervene following the wind direction and changing the position of blades.
