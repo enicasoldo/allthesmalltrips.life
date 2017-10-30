@@ -1,10 +1,9 @@
-<!-- header start -->
-
 <nav class="blog-header navbar header--fixed js--headroom headroom--unpinned">
-    <h1 class="blog-title">{{ site.title }}</h1>
-    <h2 class="blog-description">{{ site.description }}</h2>
+  <a href="{{site.url}}{{site.baseurl}}">
+    <span class="blog-title">{{ site.title }}</span>
+    <span class="blog-description">{{ site.description }}</span>
     {% if site.logo %}
-      <a class="blog-logo" href="{{site.url}}{{site.baseurl}}" style="background-image: url('{{ site.logo | prepend: site.baseurl }}')">{{ site.title }}</a>
+      <a class="blog-logo" style="background-image: url('{{ site.logo | prepend: site.baseurl }}')">{{ site.title }}</a>
     {% endif %}
+  </a>
 </nav>
-<!-- header end -->

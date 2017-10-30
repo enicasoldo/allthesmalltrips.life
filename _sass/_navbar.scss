@@ -5,6 +5,10 @@
   z-index: 1000;
   position: fixed;
 
+  a {
+    text-decoration: none!important;
+  }
+
   .blog-title {
     padding-top: 0;
     font-size: 32px;
