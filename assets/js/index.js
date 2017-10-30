@@ -34,6 +34,9 @@
           var wpm = 275;
           var words = Number.parseInt($this.data('words'));
           var minutes = Math.floor(words / wpm);
+          if (minutes < 1) {
+            minutes = 'Less than a';
+          }
           $this.text(minutes + ' min read');
         });
     });

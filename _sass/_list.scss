@@ -5,6 +5,10 @@
   .post-excerpt {
     display: grid;
     grid-template-columns: 50%;
+
+    @media (max-width: 767px) {
+      grid-template-columns: 100%;
+    }
   }
 
   .article-item__image {
@@ -14,6 +18,11 @@
     grid-column: 1 / 1;
     background-size: cover;
     background-position: center;
+
+    @media (max-width: 767px) {
+      height: 150px;
+      margin-right: 0;
+    }
   }
 
   .article-item__meta {
@@ -23,5 +32,10 @@
 
   .article-item__description {
     grid-column: 2 / 2;
+
+    @media (max-width: 767px) {
+      grid-column: 1 / 1;
+      grid-row: 2 / 2;
+    }
   }
 }
