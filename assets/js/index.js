@@ -24,12 +24,9 @@
               .after('<figcaption>'+$(this).attr("alt")+'</figcaption>');
         });
 
-        // grab an element
-        var myElement = document.querySelector(".js--headroom");
-        // construct an instance of Headroom, passing the element
-        var headroom  = new Headroom(myElement);
-        // initialise
-        headroom.init();
+        // var myElement = document.querySelector(".js--headroom");
+        // var headroom  = new Headroom(myElement);
+        // headroom.init();
     });
 
 }(jQuery));
