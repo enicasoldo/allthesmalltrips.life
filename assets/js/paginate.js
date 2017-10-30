@@ -14,7 +14,7 @@
   function loadPage() {
     isLoading = true;
     currentPage++;
-    $.get('/page' + currentPage).then(function(html) {
+    $.get(blog.url + '/page' + currentPage).then(function(html) {
       $(html).find('article').each(function() {
         trigger.prepend(this);
       })
