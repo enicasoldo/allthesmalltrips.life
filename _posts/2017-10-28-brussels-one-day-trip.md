@@ -5,7 +5,7 @@ categories: trips
 tags: [trips, belgium, brussels, food, fries, architecture, capital, city, travels, onefdaytrip]
 image: /assets/images/brussels-copertina.jpg
 excerpt: "Brussels is the heart of Europe and multicultural community example. By strolling around its you'll learn how the Belgian capital is much more than chocolates and beers."
-facebook: "One day in Brussels: the perfect itinerary to fall in love with the \"European capital\"" 
+facebook: "One day in Brussels: the perfect itinerary to fall in love with the \"European capital\""
 ---
 
 I have been in Belgium several times in the last two years but I haven’t visited its capital until last August. So I set to explore this city on a one day trip before leaving Flanders: I could have never moved away without seeing **Brussels, the heart of Europe and multicultural community example**.
@@ -24,18 +24,37 @@ My walking tour with the nice Magali started at 11 AM in Grand Place,  the centr
 
 It was a lucky trip for me because I visited Brussels just the 15th of August. In effect, when I got there, I discovered that every two years, only in August, the whole square is transformed into a **giant flower carpet** thanks to the millions of begonias brought there to create a colorful masterpiece.
 
+![The Manneken Pis](/assets/images/manneken-pis.jpg)
+
 Just a few blocks from the Grand Place you stumble across the Belgium famous **Manneken Pis**,   a tiny fountain depicting a young boy peeing. There has been much speculation about the origins of this hilarious bronze sculpture: the truth is that nobody knows who he was and why has become the symbol of a country! The funny thing is that the small statue has a range of clothes made for him; they’re about over 900 outfits, all of them set in a museum and known as GardeRobe. Come back in Christmas Day to see him in a Santa outfit!
 
-After a quick look after the “little boy”, I head to a lively corner next **Place de la Bourse**, a square most of the time neglected by travel blogs and avoided by guides. Once this place was afflicted by the terrible plague and for that completely razed. Long after the Belgians built here a stunning neoclassical Stock Exchange building that nowadays hosts exhibitions and events!
+![The Stock Exchange Building](/assets/images/place-de-la-bourse.jpg)
+
+After a quick look after the “little boy”, I head to a lively corner next **Place de la Bourse**, a square most of the time neglected by travel blogs and avoided by guides. Once this place was afflicted by the terrible plague and for that completely razed. Long after the Belgians built here a stunning neoclassical Stock Exchange Building that nowadays hosts exhibitions and events!
+
+![Belgian fries](/assets/images/belgian-fries.jpg)
 
 I particularly enjoyed to take a stroll across these cheerful pathways: bars, pubs, and shops are everywhere while at [Fritland](http://www.fritlandbrussels.be/acceuil), in Rue Henri Maus, you could taste the best fries ever.
+
 **A tip**: locals suggested not to ask for “French” fries, they are extremely sensitive about it. It’s better if you order “Belgian fries” or simply “fries”.
+
 **Look**: authentic “frietjes” are cooked with lard and not with vegetal oil, that’s the secret of their flavorful.
+
+![Galleries Royals Saint Hubert](/assets/images/galeries-royale-saint-hubert.jpg)
 
 
 The **Galleries Royals Saint Hubert** was a real discovery for me. I looked up at it and I said: “They have made a copy of the one of Milan!”. Instead, it is just the opposite thing! The ones of Milan and Naples were inspired by the Brussels’ Gallery that opened in 1847.  It was designed as a commercial building for the aristocracy and consists of two main sections, the King’s Gallery and the Queen’s Gallery, and a smaller side called Princess’ gallery.
 Today it hosts over 50 shops and two theaters. According to a historical anecdote, the Lumière brothers played here one of their first movies.
+
+![Neuhaus shop](/assets/images/belgian-chocolates.jpg)
+
+![Belgian chocolates](/assets/images/belgian-pralines)
+
+
+
 **Recommendation**: you can’t leave this Gallery (and Brussels in general) without to buy, or at least to taste, the delicious Belgian chocolates. Avoid franchise and commercial shops: you may have the best chocolates of Belgium at **Mary’s** (the first Chocolate shop owned by a woman) and at **Neuhaus** (which invented the famous Pralines).
+
+![Brussels' Cathedral](/assets/images/brussels-cathedral.jpg)
 
 When I stood in front of the **Cathedral of Saint Michael and Gudula** the first thing I thought was “Notre-Dame!”. In effect this building, that is also UNESCO World Heritage Site, is a typical gothic church with stained glasses and lancet arches. Belgian people are extremely respectful of religion and spirituality. Please, if you decide to enter this sacred space, be silent and respectful too.
 
@@ -44,4 +63,9 @@ The **Royal Palace of Brussels** is open to the public two weeks per year, usual
 
 
 Brussels, like every capital in the world, is a mix of “night and day”. Indeed, during the centuries, Belgium was characterized by colonialism, wars, slavery but also **courage** and a great **humility.** King Albert I, a true national hero of the I World War, was a small brave man which fought to protect the neutrality and the peace of his people. “Belgium is a Country, not a road”, he answered to Germany. His strength and integrity are still impressed in the Belgians which celebrates him with a huge statue in the Mont des Arts.
+
+![King Albert statue](/assets/images/king-albert-statue.jpg)
+
+
+
 **This is Belgium**: a strategic born Nation which, over few decades, has raised his own dignity and strength despite its small measures.
