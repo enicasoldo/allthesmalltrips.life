@@ -5,7 +5,7 @@ categories: trips
 tags: [trips, belgium, brussels, food, fries, architecture, capital, city, travels, onefdaytrip]
 image: /assets/images/brussels-copertina.jpg
 excerpt: "Brussels is the heart of Europe and multicultural community example. By strolling around its you'll learn how the Belgian capital is much more than chocolates and beers."
-facebook: "One day in Brussels: the perfect itinerary to fall in love with the European capital" 
+facebook: "One day in Brussels: the perfect itinerary to fall in love with the \"European capital\"" 
 ---
 
 I have been in Belgium several times in the last two years but I haven’t visited its capital until last August. So I set to explore this city on a one day trip before leaving Flanders: I could have never moved away without seeing **Brussels, the heart of Europe and multicultural community example**.
