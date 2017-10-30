@@ -20,6 +20,7 @@
     $.get(blog.url + '/page' + currentPage + '/').then(function(html) {
       $(html).find('article').each(function() {
         trigger.prepend(this);
+        $(document).trigger('reinitialize');
       })
       isLoading = false;
     }, function() {

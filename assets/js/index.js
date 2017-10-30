@@ -26,19 +26,22 @@
       $(document).off('scroll', initHeadroom);
     }
 
-    $(document).on('scroll', initHeadroom);
+    function reinitialize() {
+      // reading time
+      $('.js--reading-time').each(function() {
+        var $this = $(this);
+        var wpm = 275;
+        var words = Number.parseInt($this.data('words'));
+        var minutes = Math.floor(words / wpm);
+        if (minutes < 1) {
+          minutes = 'Less than a';
+        }
+        $this.text(minutes + ' min read');
+      });
+    }
 
-    // reading time
-    $('.js--reading-time').each(function() {
-      var $this = $(this);
-      var wpm = 275;
-      var words = Number.parseInt($this.data('words'));
-      var minutes = Math.floor(words / wpm);
-      if (minutes < 1) {
-        minutes = 'Less than a';
-      }
-      $this.text(minutes + ' min read');
-    });
+    $(document).on('scroll', initHeadroom);
+    $(document).on('reinitialize', reinitialize);
   });
 
 }(jQuery));
