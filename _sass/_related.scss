@@ -1,8 +1,18 @@
+.related-articles__wrapper {
+  max-width: 100%;
+  overflow-y: scroll;
+}
+
 .related-articles__list {
   display: flex;
   justify-content: space-between;
   margin: auto;
-  width: 720px;
+  width: 800px;
+  padding: 0 40px 40px;
+
+  @media (max-width: 767px) {
+    width: 700px
+  }
 }
 
 .related-article {
@@ -12,6 +22,7 @@
   height: 220px;
   text-decoration: none;
   width: 30%;
+  position: relative;
 
   .related-article__title {
     font-weight: bold;
@@ -29,5 +40,8 @@
     color: #999;
     display: block;
     font-weight: normal;
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
   }
 }

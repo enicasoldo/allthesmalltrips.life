@@ -1,3 +1,4 @@
+<div class="related-articles__wrapper">
 <div class="related-articles__list">
 {% assign relatedPostsLength = 3 %}
 {% assign postCounter = 0 %}
@@ -31,7 +32,12 @@
           <div class="related-article__image" style="background-image: url({{ site.url }}/{{ post.image }})"></div>
           <div class="related-article__title">
             {{ post.title }}
-            <small class="related-article__reading-time js--reading-time" data-words="{{ post.content | split:' ' | size }}"></small>
+
+            <small class="related-article__reading-time">
+              {{ post.date | date_to_string }}
+              -
+              <span class="js--reading-time" data-words="{{ post.content | split:' ' | size }}">
+            </small>
           </div>
         </a>
       {% endif %}
@@ -46,4 +52,5 @@
     {% break %}
   {% endif %}
 {% endfor %}
+</div>
 </div>
