@@ -42,6 +42,7 @@
 
     $(document).on('scroll', initHeadroom);
     $(document).on('reinitialize', reinitialize);
+    reinitialize();
   });
 
 }(jQuery));
