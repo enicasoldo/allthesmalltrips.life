@@ -9,7 +9,7 @@ description: "People don't take trips, trips take people"
 
 email: enicasoldo@gmail.com
 #blog logo
-logo: ""
+logo: /assets/images/logo.png
 float_logo: true # true, false (default)
 
 # blog cover
