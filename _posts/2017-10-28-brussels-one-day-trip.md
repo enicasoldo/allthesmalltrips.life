@@ -35,15 +35,13 @@ After a quick look after the “little boy”, I head to a lively corner next **
 ![Belgian fries](/assets/images/belgian-fries.jpg)
 
 I particularly enjoyed to take a stroll across these cheerful pathways: bars, pubs, and shops are everywhere while at [Fritland](http://www.fritlandbrussels.be/acceuil), in Rue Henri Maus, you could taste the best fries ever.
-
 **A tip**: locals suggested not to ask for “French” fries, they are extremely sensitive about it. It’s better if you order “Belgian fries” or simply “fries”.
-
 **Look**: authentic “frietjes” are cooked with lard and not with vegetal oil, that’s the secret of their flavorful.
 
-![Galleries Royals Saint Hubert](/assets/images/galeries-royale-saint-hubert.jpg)
+![The Galeries Royales Saint Hubert](/assets/images/galeries-royale-saint-hubert.jpg)
 
 
-The **Galleries Royals Saint Hubert** was a real discovery for me. I looked up at it and I said: “They have made a copy of the one of Milan!”. Instead, it is just the opposite thing! The ones of Milan and Naples were inspired by the Brussels’ Gallery that opened in 1847.  It was designed as a commercial building for the aristocracy and consists of two main sections, the King’s Gallery and the Queen’s Gallery, and a smaller side called Princess’ gallery.
+The **Galeries Royales Saint Hubert** was a real discovery for me. I looked up at it and I said: “They have made a copy of the one of Milan!”. Instead, it is just the opposite thing! The ones of Milan and Naples were inspired by the Brussels’ Gallery that opened in 1847.  It was designed as a commercial building for the aristocracy and consists of two main sections, the King’s Gallery and the Queen’s Gallery, and a smaller side called Princess’ gallery.
 Today it hosts over 50 shops and two theaters. According to a historical anecdote, the Lumière brothers played here one of their first movies.
 
 ![Neuhaus shop](/assets/images/belgian-chocolates.jpg)
