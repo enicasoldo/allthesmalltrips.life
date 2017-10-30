@@ -1,5 +1,9 @@
-<!-- header start -->
-<!-- <header class="header header--fixed js--headroom headroom--unpinned">
-  hello world
-</header> -->
-<!-- header end -->
+<nav class="blog-header navbar header--fixed js--headroom headroom--unpinned">
+  <a href="{{site.url}}{{site.baseurl}}">
+    <span class="blog-title">{{ site.title }}</span>
+    <span class="blog-description">{{ site.description }}</span>
+    {% if site.logo %}
+      <a class="blog-logo" style="background-image: url('{{ site.logo | prepend: site.baseurl }}')">{{ site.title }}</a>
+    {% endif %}
+  </a>
+</nav>

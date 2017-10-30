@@ -66,24 +66,16 @@ layout: default
               <p class="article-item__description">{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
             </section>
             <div class="post-meta article-item__meta">
-              <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
+              <time datetime="{{ post.date | date_to_long_string }}">
+                {{ post.date | date_to_long_string }}
+                -
+                <span class="js--reading-time" data-words="{{ post.content | split:' ' | size }}"
+              </time>
             </div>
           </a>
         </article>
       {% endfor %}
     </div>
 
-    <nav class="pagination" role="navigation">
-      {% if paginator.next_page %}
-        <a class="newer-posts" href={{ "/page" | prepend: site.baseurl | append: paginator.next_page }}>&larr; Older posts</a>
-      {% endif %}
-      <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-      {% if paginator.previous_page %}
-        {% if paginator.page == 2 %}
-          <a class="older-posts" href={{ "/" | prepend: site.baseurl }}>Newer posts &rarr;</a>
-        {% else %}
-          <a class="older-posts" href={{ "/page" | prepend: site.baseurl | append: paginator.previous_page }}>Newer posts &rarr;</a>
-        {% endif %}
-      {% endif %}
-    </nav>
+    <div class="js--pagination"></div>
 </main>
