@@ -3,13 +3,25 @@
   color: inherit;
 
   .post-excerpt {
-    display: flex;
+    display: grid;
+    grid-template-columns: 50%;
   }
 
   .article-item__image {
-    width: 50%;
     height: 100%;
     margin: 20px 20px 20px 0;
-    padding-top: 5px
+    padding-top: 5px;
+    grid-column: 1 / 1;
+    background-size: cover;
+    background-position: center;
+  }
+
+  .article-item__meta {
+    text-align: right;
+    line-height: 1;
+  }
+
+  .article-item__description {
+    grid-column: 2 / 2;
   }
 }
