@@ -12,6 +12,9 @@
   }
 
   function loadPage() {
+    if (isLoading) {
+      return;
+    }
     isLoading = true;
     currentPage++;
     $.get(blog.url + '/page' + currentPage + '/').then(function(html) {
