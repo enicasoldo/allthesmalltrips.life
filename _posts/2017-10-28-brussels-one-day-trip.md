@@ -2,8 +2,9 @@
 layout: post
 title: "Why Brussels should be in your European travel list"
 categories: trips
-tags: [trips, belgium, brussels, food, fries, architecture, capital, city, travels, daytrip]
+tags: [trips, belgium, brussels, food, fries, architecture, capital, city, travels, onefdaytrip]
 image: /assets/images/brussels-copertina.jpg
+excerpt: 
 ---
 
 I have been in Belgium several times in the last two years but I haven’t visited its capital until last August. So I set to explore this city on a one day trip before leaving Flanders: I could have never moved away without seeing **Brussels, the heart of Europe and multicultural community example**.
