@@ -1,0 +1,49 @@
+<div class="related-articles__list">
+{% assign relatedPostsLength = 3 %}
+{% assign postCounter = 0 %}
+{% assign minCommonTagsStart = 7 %}
+{% assign oldPosts = '' %}
+
+{% for i in (0..7) %}
+  {% assign minCommonTags = minCommonTagsStart | minus: i %}
+  {% for post in site.posts %}
+    {% if post == page %}{% continue %}{% endif %}
+    {% assign sameTagCount = 0 %}
+    {% for tag in page.tags %}
+      {% for tag2 in post.tags %}
+        {% if tag == tag2 %}
+          {% assign sameTagCount = sameTagCount | plus: 1 %}
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+    {% if sameTagCount >= minCommonTags %}
+      {% assign canGo = true %}
+      {% assign oldPostsArr = oldPosts | split:':' %}
+      {% for oldPost in oldPostsArr %}
+        {% if oldPost == post.url %}
+          {% assign canGo = false %}
+        {% endif %}
+      {% endfor %}
+      {% if canGo == true %}
+        {% assign oldPosts = oldPosts | append:':' | append: post.url %}
+        {% assign postCounter = postCounter | plus: 1 %}
+        <a class="related-article" href="{{ site.url }}/{{ post.url }}">
+          <div class="related-article__image" style="background-image: url({{ site.url }}/{{ post.image }})"></div>
+          <div class="related-article__title">
+            {{ post.title }}
+            <small class="related-article__reading-time js--reading-time" data-words="{{ post.content | split:' ' | size }}"></small>
+          </div>
+        </a>
+      {% endif %}
+    {% endif %}
+
+    {% if postCounter > 2 %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+
+  {% if postCounter > 2 %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+</div>

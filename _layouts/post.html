@@ -64,15 +64,14 @@
           </section>
         </footer>
         <div class="bottom-teaser cf">
-            <h5 class="index-headline featured"><span>Written by</span></h5>
-            <section class="author">
-              <div class="author-image" style="background-image: url({{site.author_image | prepend: site.baseurl}})">Blog Logo</div>
-              <h4>{{ site.author }}</h4>
-              <p class="bio">{{author.bio}}</p>
-              <hr>
-              <p class="published">Published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
-            </section>
-          {{post}}
+          <h5 class="index-headline featured"><span>Written by</span></h5>
+          <section class="author">
+            <div class="author-image" style="background-image: url({{site.author_image | prepend: site.baseurl}})">Blog Logo</div>
+            <h4>{{ site.author }}</h4>
+            <p class="bio">{{author.bio}}</p>
+            <hr>
+            <p class="published">Published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
+          </section>
         </div>
         {%if site.disqus %}
         <div id="disqus_thread"></div>
@@ -92,15 +91,18 @@
       </article>
     </main>
     {{post.permalink}}
-    <div class="fb-comments" data-href="{{site.baseurl}}{{post.url}}" data-width="640"></div>
-    <div class="bottom-closer">
-      <div class="background-closer-image" {%if site.cover %} style="background-image: url({{ site.baseurl }}/{{ site.cover }})"{% endif %}>
-        Image
-      </div>
-      <div class="inner">
-        <h1 class="blog-title">{{ site.title }}</h1>
-        <h2 class="blog-description">{{ site.description }}</h2>
-        <a href={{ "/" | prepend: site.baseurl }} class="btn">Back to Overview</a>
+    <div class="related-articles">
+      {% include related.html %}
+      <div class="fb-comments" data-href="{{site.baseurl}}{{post.url}}" data-width="640"></div>
+      <div class="bottom-closer">
+        <div class="background-closer-image" {%if site.cover %} style="background-image: url({{ site.baseurl }}/{{ site.cover }})"{% endif %}>
+          Image
+        </div>
+        <div class="inner">
+          <h1 class="blog-title">{{ site.title }}</h1>
+          <h2 class="blog-description">{{ site.description }}</h2>
+          <a href={{ "/" | prepend: site.baseurl }} class="btn">Back to Overview</a>
+        </div>
       </div>
     </div>
     {% include javascripts.html %}

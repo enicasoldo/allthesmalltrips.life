@@ -1,0 +1,33 @@
+.related-articles__list {
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  width: 720px;
+}
+
+.related-article {
+  border: 1px solid rgba(0,0,0,.1);
+  border-radius: 2px;
+  color: inherit;
+  height: 220px;
+  text-decoration: none;
+  width: 30%;
+
+  .related-article__title {
+    font-weight: bold;
+    padding: 15px;
+  }
+
+  .related-article__image {
+    background-position: 50% 50%;
+    background-size: cover;
+    background-origin: border-box;
+    height: 100px;
+  }
+
+  .related-article__reading-time {
+    color: #999;
+    display: block;
+    font-weight: normal;
+  }
+}

@@ -27,6 +27,15 @@
         // var myElement = document.querySelector(".js--headroom");
         // var headroom  = new Headroom(myElement);
         // headroom.init();
+
+        // reading time
+        $('.js--reading-time').each(function() {
+          var $this = $(this);
+          var wpm = 275;
+          var words = Number.parseInt($this.data('words'));
+          var minutes = Math.floor(words / wpm);
+          $this.text(minutes + ' min read');
+        });
     });
 
 }(jQuery));
