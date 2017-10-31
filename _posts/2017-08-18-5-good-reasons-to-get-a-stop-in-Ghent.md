@@ -2,7 +2,7 @@
 layout: post
 title: "5 good reasons to get a stop in Ghent"
 categories: trips
-tags: [trips, Flanders, Ghent, onedaytrip, belgium, flanders, food, beer]
+tags: [trips, Flanders, Ghent, onedaytrip, belgium, flanders, food, beer, canals]
 image: /assets/images/trip-ghent.jpg
 excerpt: "If you don't like tourist itinerary, Ghent is that suits you: there's no place in Belgium that captures best the essence of East Flanders."
 facebook: "If you don't like tourist itinerary, Ghent is the place to go: no city captures best the essence of East Flanders."
