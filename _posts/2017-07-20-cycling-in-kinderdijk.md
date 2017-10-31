@@ -4,8 +4,8 @@ title: "Cycling in Kinderdijk"
 categories: trips
 tags: [trips, Netherlands, bike, canals, windmills, onedaytrip, landscape, nature]
 image: /assets/images/copertina-mulini.jpg
-excerpt: "If you want to really know Netherlands, Kinderdijk is the place to go. This is the place where Dutch invented Holland and a way of living that people all over the world envy them"
-facebook: "Kinderdijk is a place to go once in a lifetime. This is the land where Dutch invented Holland and the way of living that people all over the world envy them"
+excerpt: "If you want to really know Netherlands, Kinderdijk is the place to go. This is the place where Dutch invented Holland and a way of living that people all over the world envy them."
+facebook: "Kinderdijk is a place to go once in a lifetime. This is the land where Dutch invented Holland and the way of living that people all over the world envy them."
 ---
 
 
