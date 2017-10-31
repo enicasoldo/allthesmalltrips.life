@@ -38,7 +38,7 @@ I particularly enjoyed to take a stroll across these cheerful pathways: bars, pu
 **A tip**: locals suggested not to ask for “French” fries, they are extremely sensitive about it. It’s better if you order “Belgian fries” or simply “fries”.
 **Look**: authentic “frietjes” are cooked with lard and not with vegetal oil, that’s the secret of their flavorful.
 
-![The Galeries Royales Saint Hubert](/assets/images/galeries-royales-saint-hubert.jpg)
+![The Galeries Royales Saint-Hubert](/assets/images/galeries-royales-saint-hubert.jpg)
 
 
 The **Galeries Royales Saint Hubert** was a real discovery for me. I looked up at it and I said: “They have made a copy of the one of Milan!”. Instead, it is just the opposite thing! The ones of Milan and Naples were inspired by the Brussels’ Gallery that opened in 1847.  It was designed as a commercial building for the aristocracy and consists of two main sections, the King’s Gallery and the Queen’s Gallery, and a smaller side called Princess’ gallery.
