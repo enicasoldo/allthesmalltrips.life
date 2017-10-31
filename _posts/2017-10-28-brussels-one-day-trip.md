@@ -38,15 +38,15 @@ I particularly enjoyed to take a stroll across these cheerful pathways: bars, pu
 **A tip**: locals suggested not to ask for “French” fries, they are extremely sensitive about it. It’s better if you order “Belgian fries” or simply “fries”.
 **Look**: authentic “frietjes” are cooked with lard and not with vegetal oil, that’s the secret of their flavorful.
 
-![The Galeries Royales Saint Hubert](/assets/images/galeries-royale-saint-hubert.jpg)
+![The Galeries Royales Saint Hubert](/assets/images/galeries-royales-saint-hubert.jpg)
 
 
 The **Galeries Royales Saint Hubert** was a real discovery for me. I looked up at it and I said: “They have made a copy of the one of Milan!”. Instead, it is just the opposite thing! The ones of Milan and Naples were inspired by the Brussels’ Gallery that opened in 1847.  It was designed as a commercial building for the aristocracy and consists of two main sections, the King’s Gallery and the Queen’s Gallery, and a smaller side called Princess’ gallery.
 Today it hosts over 50 shops and two theaters. According to a historical anecdote, the Lumière brothers played here one of their first movies.
 
-![Neuhaus shop](/assets/images/belgian-chocolates.jpg)
+![Neuhaus shop](/assets/images/neuhaus-brussels.jpg)
 
-![Belgian chocolates](/assets/images/belgian-pralines)
+![Belgian chocolates](/assets/images/belgian-pralines.jpg)
 
 
 
@@ -56,13 +56,15 @@ Today it hosts over 50 shops and two theaters. According to a historical anecdot
 
 When I stood in front of the **Cathedral of Saint Michael and Gudula** the first thing I thought was “Notre-Dame!”. In effect this building, that is also UNESCO World Heritage Site, is a typical gothic church with stained glasses and lancet arches. Belgian people are extremely respectful of religion and spirituality. Please, if you decide to enter this sacred space, be silent and respectful too.
 
-The **Royal Palace of Brussels** is open to the public two weeks per year, usually in summer. It is possible to walk beautiful golden rooms, the old team rooms and  bedrooms where kings and queens succeeded over centuries. Today the Belgian royals have turned into a modern family very close to Belgians and involved in the current issues of their Country.
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BX3j6kPDvD7/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">👑👑🏰</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by Enica Soldo 🌍 (@enicasoldo) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2017-08-16T20:30:22+00:00">Aug 16, 2017 at 1:30pm PDT</time></p></div></blockquote> <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 
+The **Royal Palace of Brussels** is open to the public two weeks per year, usually in summer. It is possible to walk beautiful golden rooms, the old team rooms and  bedrooms where kings and queens succeeded over centuries. Today the Belgian royals have turned into a modern family very close to Belgians and involved in the current issues of their Country.
+
+![King Albert statue](/assets/images/king-albert-statue.jpg)
 
 Brussels, like every capital in the world, is a mix of “night and day”. Indeed, during the centuries, Belgium was characterized by colonialism, wars, slavery but also **courage** and a great **humility.** King Albert I, a true national hero of the I World War, was a small brave man which fought to protect the neutrality and the peace of his people. “Belgium is a Country, not a road”, he answered to Germany. His strength and integrity are still impressed in the Belgians which celebrates him with a huge statue in the Mont des Arts.
 
-![King Albert statue](/assets/images/king-albert-statue.jpg)
+
 
 
 
