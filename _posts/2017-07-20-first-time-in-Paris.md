@@ -5,7 +5,7 @@ categories: trips
 tags: [trips, France, food, hotels, capital, architecture, art]
 image: /assets/images/paris-tour.jpg
 excerpt: "Here you are How I avoided mistakes and commonplaces during my Parisian \_small trip\_."
-facebook: "how to avoid mistakes and commonplaces during your Parisian \_small trip\_."
+facebook: "how to avoid mistakes and commonplaces during your Parisian\_small trip\_."
 
 ---
 
