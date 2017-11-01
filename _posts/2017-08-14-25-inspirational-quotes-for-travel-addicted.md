@@ -2,11 +2,13 @@
 layout: post
 title: "25 inspirational quotes for travel addicted"
 categories: inspirtions
-tags: [trips, world, words, travels, inspirations, quotes, writers, travellers, happiness, destinations, memories]
+tags: [trips, quotes, travels, inspirations, writers, travelers, happiness]
 image: /assets/images/landscape.jpg
+excerpt: "Here you are the best travel quotes that will motivate you to discover the world and yourself."
+fcebook: "Here you are the best travel quotes that will inspire you and your next adventures"
 ---
 Sometimes all we need are **written words** to lift away our mind from the sameness of everyday life.
-Great travel quotes remind me that the emotions I've felt while travelling have been experienced by many others. These are the **best ispirational travel quotes** that motivated me to discover the **world** and **myself** during the last year: I hope they can inspire you and your next adventures as deeply as they did with me.
+Great travel quotes remind me that the emotions I've felt while traveling have been experienced by many others. These are the **best inspirational travel quotes** that motivated me to discover the **world** and **myself** during the last year: I hope they can inspire you and your next adventures as deeply as they did with me.
 
 ![Aldous Huxley](/assets/images/quote-huxley.jpg)
 

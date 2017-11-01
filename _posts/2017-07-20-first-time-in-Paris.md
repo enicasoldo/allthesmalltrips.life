@@ -4,8 +4,8 @@ title: "First time Paris: what to do and not to do"
 categories: trips
 tags: [trips, France, food, hotels, capital, architecture, art]
 image: /assets/images/paris-tour.jpg
-excerpt: "Here you are How I avoided mistakes and commonplaces during my Parisian\_small trip\_."
-facebook: "how to avoid mistakes and commonplaces during your Parisian\_small trip\_."
+excerpt: "Everybody loves Paris. But, to really enjoy you first time in Paris, you need to avoid commonplaces and mistakes people usually do. Here you are my personal list"
+facebook: "How to avoid mistakes and commonplaces during your first Parisian trip."
 
 ---
 
