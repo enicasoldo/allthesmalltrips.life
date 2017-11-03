@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cycling in Kinderdijk"
+title: "One amazing day by cycling in the unique Kinderdijk"
 categories: trips
 tags: [trips, Netherlands, bike, canals, windmills, onedaytrip, landscape, nature]
 image: /assets/images/copertina-mulini.jpg
