@@ -4,8 +4,8 @@ title: "My first hiking in the wonderful Wicklow Mountains"
 categories: adventure
 tags: [trips, Ireland, hiking, Dublin, sport, wicklowmountains, nature]
 image: /assets/images/upper-lake.jpg
-excerpt: ""
-facebook: ""
+excerpt: "Best travel writers said that **You haven't been to Ireland unless you've hike in the rain**: this is why since I landed in Dublin I was determined to hike as soon as possible!"
+facebook: "if you are interested in the authentic Ireland, you have to spent one day by hiking in the Wicklow Mountains"
 ---
 
 Ireland is one of those countries whose countryside is as stunning as its cities.
