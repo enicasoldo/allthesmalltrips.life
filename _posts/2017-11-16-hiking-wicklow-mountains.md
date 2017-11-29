@@ -15,7 +15,7 @@ Dublin's gives you the opportunity to have a great hiking experience thanks to m
 
 Best travel writers said that **You haven't been to Ireland unless you've hike in the rain**: this is why since I landed in Dublin I was determined to hike as soon as possible!
 
-![Dublin countryside](assets/images/countryside.jpg)
+![Dublin countryside](/assets/images/countryside.jpg)
 
 Dublin city is as amazing as his rural area: lakes, glacial valleys, mountains with cute deers and stags following you while you're walking. So, if you are interested in the authentic Ireland, visiting cities and history museums is not enough.
 
@@ -65,7 +65,7 @@ Although scared by this bad starting, our path got well with some long flat trai
 
 Unfortunately, on mountains the weather changes very fast so, just after the "terrible" climb, it started raining. Although it rained, once reached the highest point, I saw for the first time a stag few metres from me, looking at us and jumping. It was so excited!
 
-![Miners' building](/assets/images/miners-building)
+![Miners' building](/assets/images/miners-building.jpg)
 
 The way back ran downhill but a it was little bit difficult because of rocky trail. We discovered with surprise that now we were walking on a geological s between granite and mica schist bedrock. Up to  the 1965 that was a stone mine and it is still possible to see a building of the abandoned Miners' Village.
 ![Strolling down the Lake side](/assets/images/lake)
