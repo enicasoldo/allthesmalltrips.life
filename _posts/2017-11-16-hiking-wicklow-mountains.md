@@ -56,7 +56,7 @@ But my adventure began already before to arrive the start point. As soon as we l
 
 After we having parked our car at the start point, my real adventure began... in the most disastrous way ever! The first metres of the white route are the worst: all uphill while i was walking close to amazing falls and nice animals I couldn't enjoy because I was too busy keeping myself alive!
 
-![The Upper Lake](/assets/images/upper-lake-mountains.jpg)
+![The Upper Lake](/assets/images/upper.jpg)
 
 
 Although scared by this bad starting, our path got well with some long flat trails or someone shorter to climb. Now I could finally enjoy the landscape: The Upper Lake from above is something amazing, it seems to me a huge volcano filled with water: like a postcard!
