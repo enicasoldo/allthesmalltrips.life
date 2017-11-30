@@ -19,7 +19,7 @@ Best travel writers said that **You haven't been to Ireland unless you've hike i
 
 Dublin city is as amazing as his rural area: lakes, glacial valleys, mountains with cute deers and stags following you while you're walking. So, if you are interested in the authentic Ireland, visiting cities and history museums is not enough.
 
-![Cycling under the rain](/assets/images/cycling-ireland.jpg)
+![Cycling under the rain](/assets/images/cycling.jpg)
 
 Despite of the weather, Irish people love country life and do a lot of outdoor sports: they even invented many singular team sports played on _open air_ like hurling and they, obviously, hike a lot to take the most of the natural heritage Ireland is provided.
 
