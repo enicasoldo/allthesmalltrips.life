@@ -13,6 +13,7 @@ Dublin's gives you the opportunity to have a great hiking experience thanks to m
 
 ### Why spend one day of your trip by hiking
 
+
 Best travel writers said that **You haven't been to Ireland unless you've hike in the rain**: this is why since I landed in Dublin I was determined to hike as soon as possible!
 
 ![Dublin countryside](/assets/images/countryside.jpg)
@@ -32,7 +33,7 @@ The County of Wicklow, two hours South of Dublin, is called **the garden of Irel
 
 ![The Wicklow way](/assets/images/wicklow-mountains.jpg)
 
-The main reason I chose the Wicklow Way as my first hiking experience is that it's a mix of nature and history: _en route_, the Wicklow Way passes through mountain lakes but also ruined buildings, occasional memorials to past centuries events and, the last but not the least, the famous extensive remains of Glendalough, the early Christian monastic settlement in the beautiful Glendalough valley.
+The main reason I chose the Wicklow Way as my first hiking experience is that it's a **mix of nature and history**: _en route_, the Wicklow Way passes through mountain lakes but also ruined buildings, occasional memorials to past centuries events and, the last but not the least, the famous extensive remains of Glendalough, the early Christian monastic settlement in the beautiful Glendalough valley.
 
 ![Wicklow Mountains from the top](/assets/images/wicklow.jpg)
 
@@ -48,22 +49,22 @@ Among the routes I could choose, the **White Route** was the one that made me cu
 
 ![Sheep crossing road](/assets/images/sheeps-road.jpg)
 
-But my adventure began even before to arrive to the start point. As soon as we left behind the city, we started to drive along country roads crossed by sheep and goats and overflew by ravens, kestrels and merlins: it has been about two hours of rally aboard a city car!
+But my adventure began even before to arrive to the start point. As soon as we left behind the city, we started to drive along country roads crossed by **sheep** and **goats** and overflew by **ravens**, **kestrels** and **merlins**: it has been about two hours of rally aboard a city car!
 
 ![Amazing fall](/assets/images/fall-climb.jpg)
 
 
 
-After we having parked our car, my real adventure began... in the most disastrous way ever! The first metres of the white route are the worst: it was all uphill while I was walking close to amazing falls and nice animals I couldn't enjoy because I was too busy keeping myself alive!
+After we having parked our car, my real adventure began... in the most disastrous way ever! The first metres of the white route are the worst: it was all uphill while I was walking close to amazing **falls** and nice animals I couldn't enjoy because I was too busy keeping myself alive!
 
 ![The Upper Lake](/assets/images/upper.jpg)
 
 
-Although scared by this bad starting, our path got well with some long flat trails or someone shorter to climb. Now I could finally appreciate the landscape: the Upper Lake from above is something amazing, it seems to me a huge volcano filled with water: like a postcard!
+Although scared by this bad starting, our path got well with some long flat trails or someone shorter to climb. Now I could finally appreciate the landscape: the **Upper Lake** from above is something amazing, it seems to me a huge volcano filled with water: like a postcard!
 
 ![Stags on our route](/assets/images/stags.jpg)
 
-Unfortunately, on mountains the weather changes very fast so, just after the "terrible" climb, it started to rain. Although it rained, once reached the highest point, I saw for the first time a stag few metres from me, looking at us and jumping. It was so excited!
+Unfortunately, on mountains the weather changes very fast so, just after the "terrible" climb, it started to rain. Although it rained, once reached the highest point, I saw for the first time a **stag** few metres from me, looking at us and jumping. It was so excited!
 
 ![Miners' building](/assets/images/mine.jpg)
 
@@ -92,15 +93,17 @@ The keyword for your hiking outfit is **waterproof**: wear a rainproof jacket an
 
 **A Tip**: take with you a clean change of clothes, in the case of insistent and copious rain, you don't have to wait to be home to wear dry clothes.
 
-If you have time, buy specific hiking boots: during my first experience I wore a pair of sneakers that I don't suggest you; especially  along the rocky trails, I had some problems with my ankles that you can easily avoid with the right shoes.
+If you have time, buy specific **hiking boots**: during my first experience I wore a pair of sneakers that I don't suggest you; especially  along the rocky trails, I had some problems with my ankles that you can easily avoid with the right shoes.
 
 ![My hiking crew](/assets/images/hiking-picnic.jpg)
 
-For what concern your backpack, first of all, take with you a lot of water and, some dark chocolate or protein bars and, if you want, also some sandwiches for the lunch. Once I arrived on the top, while I saw that incredible landscape I feel so grateful for what nature give us that I thought the sandwich I ate was the best one in the world.
+For what concern your backpack, first of all, take with you a lot of water and, some dark chocolate or protein bars and, if you want, also some sandwiches for the lunch.
+
+_Once I arrived on the top, while I saw that incredible landscape I feel so grateful for what nature give us that I thought the sandwich I ate was the best one in the world._
 
 **One advice**: When you prepare the sandwiches for your lunch remember that you need proteins: less junk food, more ham.
 
 It would have been a perfect hiking if only I had considered what I' am telling you now!
 
 
-Since this my first day in the Wicklow mountains, I couldn't stop to think of the the fictional character of Scarlett O'Hara and at her visceral way to love the land she got from her Irish father. Today  The Irish are just like this: they love every tree, stone and sheep of their Country and they try to enjoy them as much as possible.
+Since this my first day in the Wicklow mountains, I couldn't stop to think of the the fictional character of Scarlett O'Hara and at her visceral way to love the land she got from her Irish father. Today  The Irish are just like this: **they love every tree, stone and sheep of their Country and they try to enjoy them as much as possible.**
