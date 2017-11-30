@@ -80,6 +80,9 @@ Our route ended with a forest trail, full of butterflies flying over: it was ama
 
 Before I came to Ireland I wasn't used to go out when it's rainy. But in Dublin, you can't wait for the perfect weather conditions to do what you like:  weather changes many times and very fast in a single day.
 
+![Hiking along the White
+route](/assets/images/hiking-clothes.jpg)
+
 To go hike without accidents, it is essential to wear the right outfit and to organise the backpack. Unfortunately, during my first time on the Wicklow way, I was too inexperienced to consider that my new sneakers and a cotton sweater were the worst choice ever to hike under the rain...
 
 So now, I want to share with you what to do to avoid common mistakes people make when they hike for the first time.
@@ -89,6 +92,8 @@ The keyword for your hiking outfit is **waterproof**: wear a rainproof jacket an
 **A Tip**: take with you a clean change of clothes, in the case of insistent and copious rain, you don't have to wait to be home to wear dry clothes.
 
 If you have time, buy specific hiking boots: during my first experience I wore a pair of sneakers that I don't suggest you; especially  along the rocky trails, I had some problems with my ankles that you can easily avoid with the right shoes.
+
+![My hiking crew](/assets/images/hiking-picnic.jpg)
 
 For what concern your backpack, first of all, take with you a lot of water and, some dark chocolate or protein bars and, if you want, also some sandwiches for the lunch. Once I arrived on the top, while I saw that incredible landscape I feel so grateful for what nature give us that I thought that the sandwich I was eating was the best one in the world.
 
