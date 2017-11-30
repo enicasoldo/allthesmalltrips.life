@@ -34,7 +34,7 @@ The County of Wicklow, two hours South of Dublin, is called **the garden of Irel
 
 The main reason I chose the Wicklow Way as my first hiking experience is that it's a mix of nature and history: _en route_, the Wicklow Way passes through mountain lakes but also ruined buildings, occasional memorials to past centuries events and, the last but not the least, the famous extensive remains of Glendalough, the early Christian monastic settlement in the beautiful Glendalough valley.
 
-![Wicklow Mountains from the top](/assets/images/lake-wicklow.jpg)
+![Wicklow Mountains from the top](/assets/images/wicklow.jpg)
 
 
 The Wicklow Way begins in Dublin's southern suburb of Rathfarnham and travels in a south-south-westerly direction to finish in the small village of Clonegal, 127 kilometres later.
@@ -56,7 +56,7 @@ But my adventure began already before to arrive the start point. As soon as we l
 
 After we having parked our car at the start point, my real adventure began... in the most disastrous way ever! The first metres of the white route are the worst: all uphill while i was walking close to amazing falls and nice animals I couldn't enjoy because I was too busy keeping myself alive!
 
-![The Upper Lake](/assets/images/lake-upper.jpg)
+![The Upper Lake](/assets/images/upper-lake-mountains.jpg)
 
 
 Although scared by this bad starting, our path got well with some long flat trails or someone shorter to climb. Now I could finally enjoy the landscape: The Upper Lake from above is something amazing, it seems to me a huge volcano filled with water: like a postcard!
