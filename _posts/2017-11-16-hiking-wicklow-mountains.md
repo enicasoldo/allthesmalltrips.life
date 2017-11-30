@@ -14,7 +14,7 @@ Dublin's gives you the opportunity to have a great hiking experience thanks to m
 ### Why spend one day of your trip by hiking
 
 
-Best travel writers said that **You haven't been to Ireland unless you've hike in the rain**: this is why since I landed in Dublin I was determined to hike as soon as possible!
+Best travel writers said that **you haven't been to Ireland unless you've hike in the rain**: this is why since I landed in Dublin I was determined to hike as soon as possible!
 
 ![Dublin countryside](/assets/images/countryside.jpg)
 
