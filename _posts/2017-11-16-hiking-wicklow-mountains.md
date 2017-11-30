@@ -65,10 +65,10 @@ Although scared by this bad starting, our path got well with some long flat trai
 
 Unfortunately, on mountains the weather changes very fast so, just after the "terrible" climb, it started raining. Although it rained, once reached the highest point, I saw for the first time a stag few metres from me, looking at us and jumping. It was so excited!
 
-![Miners' building](/assets/images/miners-building.jpg)
+![Miners' building](/assets/images/miners-building.jpeg)
 
 The way back ran downhill but a it was little bit difficult because of rocky trail. We discovered with surprise that now we were walking on a geological s between granite and mica schist bedrock. Up to  the 1965 that was a stone mine and it is still possible to see a building of the abandoned Miners' Village.
-![Strolling down the Lake side](/assets/images/lake)
+![Strolling down the Lake side](/assets/images/lake.jpg)
 
 
 Our route ended with a forest trail, full of butterflies flying over: it was amazing walking by the lake while local people, that is used to walk there with its dogs, was greeting us nicely.
