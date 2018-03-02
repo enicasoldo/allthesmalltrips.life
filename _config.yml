@@ -13,10 +13,10 @@ logo: /assets/images/logo.png
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "assets/images/copertina-blog.jpg"
+cover: "/assets/images/io.jpg"
 
-name: 'Enica Soldo'
-author: 'Enica Soldo'
+name: 'Domenica Soldo'
+author: 'Domenica Soldo'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5

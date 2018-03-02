@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My first hiking in the wonderful Wicklow Mountains"
+title: "Hiking in the wonderful Wicklow Mountains"
 categories: adventure
 tags: [trips, Ireland, hiking, Dublin, sport, wicklowmountains, nature]
 image: /assets/images/cover-wicklow.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why Brussels should be in your European travel list"
+title: "Why Brussels should be in your travel list"
 categories: trips
 tags: [trips, belgium, brussels, food, fries, architecture, capital, city, travels, onedaytrip]
 image: /assets/images/brussels-copertina.jpg
