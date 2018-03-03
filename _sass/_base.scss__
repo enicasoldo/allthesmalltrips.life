@@ -22,6 +22,9 @@ body {
     background-color: $background-color;
 }
 
+strong {
+  font-weight: normal;
+}
 
 
 /**
